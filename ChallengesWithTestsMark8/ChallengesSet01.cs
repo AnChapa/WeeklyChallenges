@@ -51,7 +51,6 @@ namespace ChallengesWithTestsMark8
             else
                 return $"Hello, {nameOfPerson}!";
         }
-
         public string GetHey()
         {
             return "HEY!";
